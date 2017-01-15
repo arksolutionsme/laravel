@@ -88,6 +88,7 @@
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://algolia.com">Algolia</a>
                     <a href="http://arksolutions.me">By Ark Solutions LLC</a>
                 </div>
             </div>
